@@ -1,0 +1,11 @@
+# Guia local de correções
+GUIA_CORRECOES.md
+
+# Credenciais locais
+.env
+
+# Exportações para o Data Studio
+data/exports/
+
+# Sistema
+.DS_Store
